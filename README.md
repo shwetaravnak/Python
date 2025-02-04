@@ -1,1 +1,1 @@
-These are the some basic python programs for beginners.  
+These are the some beginner-level python programs.  
