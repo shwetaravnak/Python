@@ -52,7 +52,7 @@ while True:
         rectangle();
 
     elif n==5:
-        print("Exiting)
+        print("Exiting...")
         break
     
     else:
