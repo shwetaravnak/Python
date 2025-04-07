@@ -1,2 +1,2 @@
-#pythonprograms
-These are the some beginner-level python programs.
+
+These are some beginner-level python programs.
