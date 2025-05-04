@@ -8,7 +8,7 @@ def login():
     if(username=="" and password==""):
         messagebox.showinfo("","Blank Not Allowed!")
 
-    elif(username=="shweta" and password=="admin"):
+    elif(username=="shweta" and password=="admin123"):
         messagebox.showinfo("","Login Successful!")
 
     else:
